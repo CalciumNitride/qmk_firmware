@@ -1,0 +1,12 @@
+{
+    "keyboard_name": "royalwings",
+    "url": "",
+    "maintainer": "CalciumNitride",
+    "width": 11,
+    "height": 4,
+    "layouts": {
+        "LAYOUT": {
+            "layout": [{"label":"Q", "x":1.25, "y":0}, {"label":"W", "x":2.25, "y":0}, {"label":"F", "x":3.25, "y":0}, {"label":"P", "x":4.25, "y":0}, {"label":"G", "x":5.25, "y":0}, {"label":"L", "x":6.75, "y":0}, {"label":"U", "x":7.75, "y":0}, {"label":"Y", "x":8.75, "y":0}, {"label":"-", "x":9.75, "y":0}, {"label":"A", "x":1, "y":1}, {"label":"R", "x":2, "y":1}, {"label":"S", "x":3, "y":1}, {"label":"T", "x":4, "y":1}, {"label":"D", "x":5, "y":1}, {"label":"H", "x":6, "y":1}, {"label":"N", "x":7, "y":1}, {"label":"E", "x":8, "y":1}, {"label":"I", "x":9, "y":1}, {"label":"O", "x":10, "y":1}, {"label":"Z", "x":1.75, "y":2}, {"label":"C", "x":2.75, "y":2}, {"label":"V", "x":3.75, "y":2}, {"label":"B", "x":4.75, "y":2}, {"label":"K", "x":6.25, "y":2}, {"label":"M", "x":7.25, "y":2}, {"label":"X", "x":8.25, "y":2}, {"label":". ,", "x":9.25, "y":2}, {"x":1, "y":3, "w":2.75}, {"x":1, "y":3}, {"label":"Raise", "x":3.75, "y":3}, {"label":"space", "x":5, "y":3}, {"x":6.25, "y":3}, {"label":"Lower", "x":7.25, "y":3}]
+        }
+    }
+}
